@@ -1,0 +1,9 @@
+.Products {
+    width: 75%;
+    border: 1px solid #ffffff;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;      
+    display: inline-flex;
+    margin: 1%;  
+}

@@ -1,0 +1,8 @@
+.Categories {
+    width: 20%;    
+    border: 1px solid #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-sizing: border-box;
+    margin: 1%;
+}

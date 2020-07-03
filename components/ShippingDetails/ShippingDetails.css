@@ -1,0 +1,30 @@
+.Form {
+    width: 30%;
+    margin-right: 5%;
+}
+
+.FormLabels {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.FormInputs { 
+    margin-top: 5px;
+    margin-bottom: 15px;
+    height: 25px;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid rgb(170, 170, 170);
+}
+
+.PlaceOrderBtn {
+    background-color: rgb(190, 221, 52);
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    width: 150px;
+    height: 35px;
+    margin-top: 2%;
+    border: none;
+    border-radius: 5px;
+}

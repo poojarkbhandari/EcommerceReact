@@ -1,0 +1,19 @@
+.OrderSummary {
+    border: 1px solid rgb(189, 185, 185);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.OrderSummaryTitle {
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.OrderItems {
+    color: rgb(97, 96, 96);
+    font-weight: 600;
+}
+
+.Price {
+margin-left: 5%;
+}

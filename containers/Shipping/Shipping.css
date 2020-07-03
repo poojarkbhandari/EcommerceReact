@@ -1,0 +1,11 @@
+.Heading {
+    margin: 2%;
+    font-size: 35px;
+    color: rgb(85, 85, 85);
+}
+
+.Shipping {
+    display: flex;
+    margin: 2%; 
+    width: 100%;
+}

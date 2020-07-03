@@ -1,0 +1,19 @@
+.Checkout {
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+    color: rgb(70, 70, 70);  
+}
+
+.ClearCart {
+    background-color: #ffffff;
+    border: none;
+    height: 50px;
+    margin: 2%;
+    font-size: 100%;
+    font-weight: 500;
+    color: rgb(70, 70, 70);
+    cursor: pointer;
+}
